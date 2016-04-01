@@ -13,5 +13,4 @@ suppliers_successful_adding,Sikeresen hozzáadott beszállítót,Erfolgreich hin
 suppliers_successful_deleted,Sikeres törlés,Löschung erfolgreich,Er werd(en),Has borrado satisfactoriamente a,You have successfully deleted,Suppression réussie,您已成功刪除供應商,Вы успешно удален,ลบสำเร็จ,Sağlayıcı silindi,Anda telah berhasil menghapus data pemasok
 suppliers_successful_updating,Sikeresen módosította a beszállítót,Änderung erfolgreich,Wijzigingen leveranciersgegevens bewaard,Has actualizado el proveedor satisfactoriamente,You have successfully updated supplier,Fournisseur édité avec succès,您已成功更新供應商,Вы успешно обновляли поставщиком,ปรับปรุงผู้ผลิตสำเร็จ,Sağlayıcı düzenlendi,Anda telah berhasil memperbarui data pemasok
 suppliers_supplier,Beszállító információ,Lieferant,Leverancier,Proveedor,Supplier,Fournisseur,供應商,поставщик,ผู้ผลิต,Sağlayıcı,Pemasok
-suppliers_supplier_id,ID,ID,Id,Id,Id,Id,Id,Id,Id,Id,Id
 suppliers_update,Bezsállító módosítása,Ändere Lieferant,Bewerk Leverancier,Actualizar Proveedor,Update Supplier,Éditer Fournisseur,更新供應商,Обновить поставщика,ปรับปรุงผู้ผลิต,Sağlayıcıyı Düzenle,Ubah data Pemasok
