@@ -336,7 +336,7 @@
 						{
 							dialog_support.hide();
 						}
-						table_support.handle_submit(response, stay_open);
+						table_support.handle_submit('<?php echo site_url('item_kits'); ?>', response, stay_open);
 					},
 					dataType: 'json'
 				});
