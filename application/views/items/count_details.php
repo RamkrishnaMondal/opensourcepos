@@ -66,7 +66,7 @@
 		</div>
 	</fieldset>
 <?php echo form_close(); ?>
-	
+
 <table class="table" style="font-size: 80%">
 	<thead>
 		<tr bgcolor="#999">
