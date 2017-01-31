@@ -3,7 +3,6 @@
 class Sale_lib
 {
 	private $CI;
-	private $line_sequence_options = array('0' => 'Standard', '1' => 'Entry', '2' => 'Group by Type', '3' => 'Group by Category');
 
 	public function __construct()
 	{
@@ -408,7 +407,7 @@ class Sale_lib
 		{
 			$item_info = $this->CI->Item->get_info_by_id_or_number($item_id);
 
-			if ($item_info->stock_type === 0) {
+			if ($item_info->stock_type == '0') {
 				$item_quantity = $this->CI->Item_quantity->get_item_quantity($item_id, $item_location)->quantity;
 				$quantity_added = $this->get_quantity_already_added($item_id, $item_location);
 
